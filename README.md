@@ -1,4 +1,31 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+# Fram Fresh
+Deliver organic vegetables straight to your house from our partner farmers. We can assist you in living a wonderful life, whether you are seeking simple ways to eat properly or like the challenge of cooking. Make your orders and delivery schedule your own!
+
+## How it works
+
+### Step 1:Pick Box
+Can choose (and adjust) the size and type of produce box that works best for customer, whether they are a fruit lover, a vegan, or someone who eats everything.
+
+### Step 2:Customize Box
+Want to change the produce items that will be delivered? It's no problem! In our online Farm Stand, it's simple to add and remove things.
+
+### Step 3:Add Products
+Add distinctive hand-crafted pickles, pasture-raised eggs, dairy, artisan olive oil, small-batch honey, a 'canning case,' and more to your delivery...
+
+### Step 4:Delivery
+Change the frequency of your delivery or skip it altogether to accommodate schedule or travels
+
+## Challenges to solve
+1. Option for the user to create a profile and keep track of their subscription
+2. Well crafted box to bring the best mix of 100% fresh and handcrafted farm items for the season
+3. Option to view and make changes to the items in the delivery. Also, use Never Send List to omit items you don’t want.
+4. Select (and edit) the size and kind of box that best suits the needs.
+5. Option to miss deliveries or modify the frequency of deliveries to suit customer needs.
+
+## Technical Choices
+- CSS: We will be using Tailwind CSS for all the beautification and SCSS for whatever minimum custom requirements we need to take care of.
+- State Management: Redux Toolkit so that we can take full advantage of React hooks in combination with redux
+- Data Fetching: For this, we are using RTK Query as it provides a lot out of the box features for which otherwise will have to write a lot of boilerplate
 
 ## Available Scripts
 
